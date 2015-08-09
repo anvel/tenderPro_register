@@ -1,2 +1,4 @@
 # tenderPro_register
-Test task for TenderPro
+Тестовая задача для TenderPro
+
+Bootstrap 3.3.5
